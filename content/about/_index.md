@@ -12,4 +12,4 @@ I graduated from Virginia Tech with a BS in Computer Science.
 
 I play keyboard in a 90s R&B cover band called The Degenerates. I produce the band’s tracks. I used to play sax. 
 
-I currently live in Venice, California.
+I live in Venice, California.
