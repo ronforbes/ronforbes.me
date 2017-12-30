@@ -2,7 +2,7 @@
 url: "/about/"
 title: "About Me"
 date: 2017-12-29T16:50:33-05:00
-draft: true
+draft: false
 ---
 
 I lead a team producing esports events around League of Legends at Riot Games. 
