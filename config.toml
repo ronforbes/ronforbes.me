@@ -1,7 +1,7 @@
 baseURL = "https://www.ronforbes.me/"
 languageCode = "en-us"
 title = "Ron Forbes"
-theme = "minimal"
+theme = "osprey"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
