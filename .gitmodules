@@ -1,1 +1,4 @@
 
+[submodule "themes/osprey"]
+	path = themes/osprey
+	url = https://github.com/tomanistor/osprey.git
