@@ -12,29 +12,29 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 [Params]
     tagline = "Ron Forbes"
     author = "Ron Forbes"
-    description = "Product manager in Venice, CA."
+    description = "Product manager and game developer living in Venice, CA."
     logoBig = "/images/ronforbes-logo.jpg"
     logoSmall = "/images/ronforbes-logo.jpg"
     favicon = "favicon.ico"
     opengraphImage = "/images/osprey.png"
     twitter = "ronforbes"
-    linkedin = "tomanistor"
-    github = "tomanistor"
-    facebook = ""
-    email = ""
+    linkedin = "ronforbes"
+    github = "ronforbes"
+    facebook = "ronaldomegaforbesjr"
+    email = "r@ronforbes.me"
     googleTagManager = ""
     highlightJS = true
     copyright = true
-    credit = true
+    credit = false
     customCSS = false
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = true
 
-#[[menu.main]]
-#    name = "About"
-#    url  = "/#about"
-#    weight = 1
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
 #[[menu.main]]
 #    name = "Work"
 #    url  = "/#work"
@@ -43,7 +43,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 #    name = "Blog"
 #    url  = "/#blog"
 #    weight = 3
-#[[menu.main]]
-#    name = "Contact"
-#    url  = "/#contact"
-#    weight = 4
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
