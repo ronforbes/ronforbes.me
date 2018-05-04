@@ -12,6 +12,7 @@ weight: 10
 I’m starting a new chapter as a product manager and game developer. I’m excited about the opportunity to recharge my batteries, reorient toward my next North Star™, apply some of the principles of product / project management I’ve been learning on the job to my personal life, and write about the experience of going through a pretty huge shift in career direction.
 
 I’m going to write much more about this, but the circumstances leading to this new phase happened pretty abruptly. So after I recovered from the initial shock, I sat down to write a handful of goals to triage and manage my first week of a new life:
+
 * Overhaul my personal brand
 * Let people know about the change
 * Get personal life setup to support the next few months of professional hiatus
