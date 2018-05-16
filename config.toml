@@ -10,9 +10,9 @@ disqusShortname = "ronforbes"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Ron Forbes | Product Manager | Game Developer "
+    tagline = "Product Manager | Game Developer | Entrepreneur"
     author = "Ron Forbes"
-    description = "Product manager and game developer living in Venice, CA."
+    description = "Product manager, game developer and entrepreneur living in Venice, CA."
     logoBig = "/images/RonOmegaForbesLogo.png"
     logoSmall = "/images/RonOmegaForbesLogo.png"
     favicon = "favicon.ico"

@@ -6,7 +6,7 @@ draft: false
 
 ![](/images/ronforbes.jpg "Look! I'm in Barcelona")
 
-## I'm a **product manager** and **game developer** living in Venice, CA.
+## I'm a **product manager**, **game developer** and **entrepreneur** living in Venice, CA.
 
 I'm a **human-centric** leader who believes an **inspired**, **results-focused**, **growth-oriented** team is a powerful competitive advantage.
 
